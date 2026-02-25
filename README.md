@@ -35,17 +35,25 @@ This project demonstrates front-end development skills along with basic server-s
 
 ## 📂 Project Structure
 
-Handicraft-store-webapp<br>
-│<br>
-├── client<br>
-│   ├── img<br>
-│   ├── index.html<br>
-│   ├── main.js<br>
-│   └── style.css<br>
+```
+handicraft-store-webapp/
 │
-└── server<br>
+├── client/
+│   ├── img/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   └── index.html
+│
+├── server/
+│   ├── server.js
+│   └── package.json
+│
+├── .gitignore
+└── README.md
 
-
+```
 ---
 
 ## 🎯 Learning Outcomes
