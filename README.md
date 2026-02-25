@@ -35,7 +35,7 @@ This project demonstrates front-end development skills along with basic server-s
 
 ## 📂 Project Structure
 
-Handicraft-store-webapp
+Handicraft-store-webapp<br>
 │<br>
 ├── client<br>
 │   ├── img<br>
